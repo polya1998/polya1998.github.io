@@ -3,11 +3,11 @@
   <title>创界山</title>
   <icon>https://www.gravatar.com/avatar/e04bb745ddb4503076f6b8f540d5c60a</icon>
   <subtitle>小渡，好机会！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://polya1998.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://polya1998.github.io/"/>
   <updated>2022-09-04T05:56:06.273Z</updated>
-  <id>http://example.com/</id>
+  <id>https://polya1998.github.io/</id>
   
   <author>
     <name>polya</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/09/04/hello-world/"/>
-    <id>http://example.com/2022/09/04/hello-world/</id>
+    <link href="https://polya1998.github.io/2022/09/04/hello-world/"/>
+    <id>https://polya1998.github.io/2022/09/04/hello-world/</id>
     <published>2022-09-04T04:06:42.825Z</published>
     <updated>2022-09-04T05:56:06.273Z</updated>
     
