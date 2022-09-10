@@ -2,7 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://polya1998.github.io/2022/09/04/hello-world/</loc>
+    <loc>https://polya1998.github.io/gallery/renxiang/index.html</loc>
+    
+    <lastmod>2022-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/post/798.html</loc>
+    
+    <lastmod>2022-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/post/41820.html</loc>
+    
+    <lastmod>2022-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/post/34dd979f.html</loc>
+    
+    <lastmod>2022-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/link/index.html</loc>
+    
+    <lastmod>2022-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/tags/index.html</loc>
     
     <lastmod>2022-09-04</lastmod>
     
@@ -31,12 +85,75 @@
 
   <url>
     <loc>https://polya1998.github.io/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://polya1998.github.io/tags/about/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/tags/%E4%BA%BA%E5%83%8F/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/tags/%E5%BC%82%E5%9F%9F/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/tags/%E5%AE%A4%E5%86%85/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/tags/%E6%A3%9A%E6%8B%8D/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/tags/%E7%9B%B8%E7%89%87/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/tags/%E6%83%85%E7%BB%AA/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://polya1998.github.io/categories/%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://polya1998.github.io/categories/%E6%91%84%E5%BD%B1/%E4%BA%BA%E5%83%8F/</loc>
+    <lastmod>2022-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

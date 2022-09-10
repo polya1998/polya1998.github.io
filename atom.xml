@@ -6,7 +6,7 @@
   <link href="https://polya1998.github.io/atom.xml" rel="self"/>
   
   <link href="https://polya1998.github.io/"/>
-  <updated>2022-09-04T09:01:26.006Z</updated>
+  <updated>2022-09-10T06:40:51.777Z</updated>
   <id>https://polya1998.github.io/</id>
   
   <author>
@@ -17,28 +17,80 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://polya1998.github.io/2022/09/04/hello-world/"/>
-    <id>https://polya1998.github.io/2022/09/04/hello-world/</id>
-    <published>2022-09-04T04:06:42.825Z</published>
-    <updated>2022-09-04T09:01:26.006Z</updated>
+    <title>异域公主写真</title>
+    <link href="https://polya1998.github.io/post/34dd979f.html"/>
+    <id>https://polya1998.github.io/post/34dd979f.html</id>
+    <published>2022-09-04T14:25:46.000Z</published>
+    <updated>2022-09-10T06:40:51.777Z</updated>
     
-    <content type="html"><![CDATA[<div class="tip "><p>default</p></div><div class="tip "><p>default</p></div><div class="tip "><p>default</p></div><div class="tip "><p>default</p></div><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<div class='poem'><div class='poem-title'>[异域公主写真]</div><div class='poem-author'>[模特：小白-小红书：@王祖闲]</div><p>听说秦淮河畔来了个花魁</p></div><p><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00457.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00459.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00603.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00562.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00520.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00517.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00572.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00580.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00648.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00491.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00477.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00464.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00532.jpg" alt=""><br><img src="https://yapoo-images.oss-cn-hangzhou.aliyuncs.com/img/DSC00613.jpg" alt=""></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;div class=&quot;tip &quot;&gt;&lt;p&gt;default&lt;/p&gt;
+    <summary type="html">&lt;div class=&#39;poem&#39;&gt;&lt;div class=&#39;poem-title&#39;&gt;[异域公主写真]&lt;/div&gt;&lt;div class=&#39;poem-author&#39;&gt;[模特：小白-小红书：@王祖闲]&lt;/div&gt;&lt;p&gt;听说秦淮河畔来了个花魁&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;tip &quot;&gt;&lt;p&gt;default&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;tip &quot;&gt;&lt;p&gt;default&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;tip &quot;&gt;&lt;p</summary>
+&lt;p&gt;&lt;img src</summary>
       
     
     
     
+    <category term="摄影" scheme="https://polya1998.github.io/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="人像" scheme="https://polya1998.github.io/categories/%E6%91%84%E5%BD%B1/%E4%BA%BA%E5%83%8F/"/>
+    
+    
+    <category term="人像" scheme="https://polya1998.github.io/tags/%E4%BA%BA%E5%83%8F/"/>
+    
+    <category term="异域" scheme="https://polya1998.github.io/tags/%E5%BC%82%E5%9F%9F/"/>
+    
+    <category term="室内" scheme="https://polya1998.github.io/tags/%E5%AE%A4%E5%86%85/"/>
+    
+    <category term="棚拍" scheme="https://polya1998.github.io/tags/%E6%A3%9A%E6%8B%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>当光透过玻璃杯</title>
+    <link href="https://polya1998.github.io/post/41820.html"/>
+    <id>https://polya1998.github.io/post/41820.html</id>
+    <published>2022-09-04T14:25:46.000Z</published>
+    <updated>2022-09-10T06:42:49.235Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="" alt=""><br><img src="" alt=""><br><img src="" alt=""><br><img src="" alt=""><br><img src="" alt=""><br><div class="fj-gallery">          </div></p>]]></content>
+    
+    
+    <summary type="html">就变成橘子味的了</summary>
+    
+    
+    
+    <category term="摄影" scheme="https://polya1998.github.io/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="人像" scheme="https://polya1998.github.io/categories/%E6%91%84%E5%BD%B1/%E4%BA%BA%E5%83%8F/"/>
+    
+    
+    <category term="人像" scheme="https://polya1998.github.io/tags/%E4%BA%BA%E5%83%8F/"/>
+    
+    <category term="相片" scheme="https://polya1998.github.io/tags/%E7%9B%B8%E7%89%87/"/>
+    
+    <category term="情绪" scheme="https://polya1998.github.io/tags/%E6%83%85%E7%BB%AA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于 【创界山】</title>
+    <link href="https://polya1998.github.io/post/798.html"/>
+    <id>https://polya1998.github.io/post/798.html</id>
+    <published>2022-09-04T13:46:01.000Z</published>
+    <updated>2022-09-10T06:45:53.946Z</updated>
+    
+    
+    <summary type="html">与战部渡居住的世界不同次元的「神部界」的山。</summary>
+    
+    
+    
+    
+    <category term="about" scheme="https://polya1998.github.io/tags/about/"/>
     
   </entry>
   

@@ -153,15 +153,19 @@
   [data-theme='dark'] div#category {
     background: transparent !important;
   }
+
+
+  /* 一图流方案 */
+  
   /* 页脚透明 */
   #footer {
     background: transparent !important;
   }
   
   /* 头图透明 */
-  #page-header {
+  /* #page-header {
     background: transparent !important;
-  }
+  } */
   
   #rightside > div > button {
     border-radius: 5px;
